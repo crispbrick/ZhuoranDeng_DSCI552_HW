@@ -1,0 +1,8 @@
+pandas
+pathlib
+numpy
+seaborn
+matplotlib
+sklearn
+statsmodels
+scipy
